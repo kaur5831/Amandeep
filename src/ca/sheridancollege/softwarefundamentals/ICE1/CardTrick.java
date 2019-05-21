@@ -46,4 +46,8 @@ public class CardTrick {
         }
     }
 }
+Cars luckyCard = newCard();
+luckyCard.setValue = 7;
+}
+}
     
