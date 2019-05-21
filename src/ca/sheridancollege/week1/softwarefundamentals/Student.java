@@ -13,7 +13,7 @@ public class Student {
     
     private String name;
     private int sID;
-
+private int class;
     /**
      * Get the value of sID
      *
